@@ -15,4 +15,4 @@ WHEN inDelivery=true THEN 1
 ELSE 0
 END
 AS order_status
-FROM "Order"
+FROM "Order";
